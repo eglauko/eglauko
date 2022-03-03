@@ -1,4 +1,6 @@
-### Hi there 👋
+# Glauco Knihs
+
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eglauko&layout=compact)](https://github.com/eglauko/github-readme-stats)
 
 <!--
 **eglauko/eglauko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
