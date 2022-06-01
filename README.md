@@ -1,9 +1,12 @@
 # Glauco Knihs
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eglauko&layout=compact)](https://github.com/eglauko)
-
 <div>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=eglauko&show_icons=true&count_private=true" />
+  <div>
+    [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eglauko)](https://github.com/eglauko)
+  </div>
+  <div>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=eglauko&show_icons=true&count_private=true" />
+  </div>
 </div>
 
 <!--
