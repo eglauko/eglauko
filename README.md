@@ -2,10 +2,12 @@
 
 <div>
   <div>
-    [![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=eglauko)](https://github.com/eglauko)
+    <a href="https://github.com/eglauko">
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eglauko&layout=compact&v=2" />
+    </a>
   </div>
   <div>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=eglauko&show_icons=true&count_private=true" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=eglauko&show_icons=true&count_private=true" />
   </div>
 </div>
 
