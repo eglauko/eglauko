@@ -1,17 +1,22 @@
 # Glauco Knihs
 
-<div>
+<div style="widht=100%;">
   <div>
     <a href="https://github.com/eglauko">
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eglauko&layout=compact&v=2" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eglauko&layout=compact&v=2" />
     </a>
   </div>
   <div>
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=eglauko&show_icons=true&count_private=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=eglauko&show_icons=true&count_private=true" />
   </div>
 </div>
+<br/>
 
-<!--
+- 🔭 I’m currently working on <a href="https://github.com/Royal-Code/">Royal-Code</a>
+- 🌱 I’m currently learning Event Sourcing, Event Storming, K8s, Terraform
+
+  
+  <!--
 **eglauko/eglauko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
