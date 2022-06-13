@@ -1,16 +1,16 @@
 # Glauco Knihs
 
-<div style="widht=100%;">
-  <div>
-    <a href="https://github.com/eglauko">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eglauko&layout=compact&v=2" />
-    </a>
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=eglauko&show_icons=true&count_private=true" />
-  </div>
-</div>
-<br/>
+<p align="center">
+  <a href="https://github.com/eglauko">
+    <img src="https://github-readme-stats.vercel.app/api?username=eglauko&show_icons=true&count_private=true&include_all_commits=true&line_height=33" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eglauko&langs_count=4&count_private=true&v=3" />
+  </a>
+</p>
+<p align="center">
+  <a href="">
+    <img src="https://github-profile-trophy.vercel.app/?username=eglauko&margin-w=28&margin-h=15" />
+  </a>
+</p>
 
 - 🔭 I’m currently working on <a href="https://github.com/Royal-Code/">Royal-Code</a>
 - 🌱 I’m currently learning Event Sourcing, Event Storming, K8s, Terraform
