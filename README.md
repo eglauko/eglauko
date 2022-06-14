@@ -2,8 +2,8 @@
 
 <p align="center">
   <a href="https://github.com/eglauko">
-    <img src="https://github-readme-stats.vercel.app/api?username=eglauko&show_icons=true&count_private=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&line_height=47&v=1" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eglauko&langs_count=6&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&v=4" />
+    <img src="https://github-readme-stats.vercel.app/api?username=eglauko&show_icons=true&count_private=true&include_all_commits=true&line_height=47&v=3" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eglauko&langs_count=6&count_private=true&v=5" />
   </a>
 </p>
 <p align="center">
