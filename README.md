@@ -11,16 +11,16 @@
     <img src="https://github-profile-trophy.vercel.app/?username=eglauko&margin-w=28&margin-h=15" />
   </a>
 </p>
+
+- 🔭 I’m currently working on <a href="https://github.com/Royal-Code/">Royal-Code</a>
+- 🌱 I’m currently learning Event Sourcing, Event Storming, K8s
+
 <p align="center">
   <a href="https://github.com/eglauko">
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=eglauko" />
   </a>
 </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/Royal-Code/">Royal-Code</a>
-- 🌱 I’m currently learning Event Sourcing, Event Storming, K8s, Terraform
-
-  
   <!--
 **eglauko/eglauko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
