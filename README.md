@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on <a href="https://github.com/Royal-Code/">Royal-Code</a>
 - 🌱 I’m currently learning Event Sourcing, Event Storming, K8s
 
+---
+
 <p align="center">
   <a href="">
     <img src="https://github-profile-trophy.vercel.app/?username=eglauko&margin-w=28&margin-h=15" />
